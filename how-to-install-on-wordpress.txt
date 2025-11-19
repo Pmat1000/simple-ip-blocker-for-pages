@@ -4,7 +4,7 @@ This guide explains how to install and activate the plugin in WordPress.
 
 ---
 
-## Method 1: Upload via WordPress Admin
+## Upload via WordPress Admin
 1. Download the plugin ZIP file from GitHub.
 2. Log in to your WordPress admin dashboard.
 3. Go to **Plugins → Add New → Upload Plugin**.
@@ -16,4 +16,5 @@ This guide explains how to install and activate the plugin in WordPress.
 ## Method 2: Manual Upload via FTP
 1. Download and unzip the plugin package.
 2. Connect to your WordPress site via FTP or your hosting file manager.
-3. Upload the folder `simple-ip-blocker-for-pages` into:
+3. Upload the folder `simple-ip-blocker-for-pages`into wp-content/plugins/:
+

